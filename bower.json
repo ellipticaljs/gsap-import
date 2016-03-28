@@ -1,7 +1,7 @@
 {
   "name": "gsap-import",
   "description": "reference the gsap animation library using html imports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "gsap.html",
   "authors": [
     "S. Francis"
